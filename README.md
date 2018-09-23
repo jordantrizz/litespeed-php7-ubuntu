@@ -1,4 +1,4 @@
-#LightSpeed Install with Ubuntu
+# LightSpeed Install with Ubuntu
 ## Notes
 PHP Configuration -> /usr/local/lsws/lsphp72/etc/php/7.2/litespeed/php.ini
 
